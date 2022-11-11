@@ -1,0 +1,30 @@
+/*
+Primary: #F5F5F5
+Secondary: #F05454
+Light: #30475E
+Info: #121212
+*/
+
+h1{
+    color: #30475E;
+}
+
+.bg-primary{
+    background-color: #F05454;
+}
+
+.text-light{
+    color: #30475E;
+}
+
+.text-secondary{
+    color: #30475E;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.text-right{
+    text-align: right;
+}
